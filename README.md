@@ -1,4 +1,4 @@
-# ⛳ golf-course-vlog
+# ⛳ golf-course-vlog-skill
 
 **一场球的原片丢进来，一条带转播 UI 的整场 vlog 走出去。**
 A Claude Code skill that turns a folder of raw golf-round footage into a full-course vlog with a broadcast-style overlay.
@@ -28,7 +28,7 @@ The pipeline is "detect → human review → EDL → render". The machine finds 
 ## 安装 · Install
 
 ```bash
-git clone https://github.com/ezshrimps/golf-course-vlog ~/.claude/skills/golf-course-vlog
+git clone https://github.com/ezshrimps/golf-course-vlog-skill ~/.claude/skills/golf-course-vlog
 pip install -r ~/.claude/skills/golf-course-vlog/requirements.txt
 ```
 
