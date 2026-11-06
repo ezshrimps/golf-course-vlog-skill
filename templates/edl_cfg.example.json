@@ -1,0 +1,160 @@
+{
+ "intro": [
+  {
+   "clip": "0001",
+   "in": 71.0,
+   "out": 77.5,
+   "no_hud": true,
+   "overlays": [
+    {
+     "type": "title",
+     "kicker": "2026.11.05 · EL MONTE, CA",
+     "big": "WHITTIER NARROWS",
+     "small": "FULL COURSE VLOG · MOUNTAIN + RIVER",
+     "dur": 6.2
+    }
+   ]
+  }
+ ],
+ "course_titles": {
+  "MOUNTAIN": {
+   "clip": "0002",
+   "in": 3.0,
+   "kicker": "FRONT NINE",
+   "big": "MOUNTAIN COURSE",
+   "small": "9 HOLES · PAR 34 · 2,615 YDS"
+  },
+  "RIVER": {
+   "clip": "0054",
+   "in": 0.0,
+   "kicker": "BACK NINE",
+   "big": "RIVER COURSE",
+   "small": "追着日落打 · RACE THE SUNSET"
+  }
+ },
+ "outro": [
+  {
+   "clip": "0071",
+   "in": 50.8,
+   "out": 57.6,
+   "no_hud": true,
+   "overlays": [
+    {
+     "type": "title",
+     "kicker": "MOUNTAIN 9 + RIVER 6",
+     "big": "SUNSET WINS",
+     "small": "天黑收工 · TO BE CONTINUED",
+     "dur": 6.6
+    }
+   ]
+  }
+ ],
+ "drop": [
+  [
+   "0006",
+   59.4
+  ],
+  [
+   "0006",
+   61.0
+  ],
+  [
+   "0001",
+   207.4
+  ],
+  [
+   "0022",
+   39.5
+  ],
+  [
+   "0023",
+   25.5
+  ],
+  [
+   "0012",
+   40.0
+  ],
+  [
+   "0025",
+   30.6
+  ]
+ ],
+ "force_real": [
+  [
+   "0009",
+   138.8
+  ]
+ ],
+ "bunker": [
+  [
+   "0009",
+   138.8
+  ]
+ ],
+ "highlights": {
+  "hold_sec": 2.0,
+  "intro_me": {
+   "clip": "0054",
+   "in": 0.0
+  },
+  "intro_partner": {
+   "clip": "0002",
+   "in": 3.0
+  }
+ },
+ "extras": [
+  {
+   "hole": [
+    "MOUNTAIN",
+    1
+   ],
+   "clip": "0002",
+   "in": 20.5,
+   "out": 25.5,
+   "overlays": [
+    {
+     "type": "tag",
+     "text": "ROLLING OUT",
+     "sub": "开车去第二杆",
+     "at": 0.3,
+     "dur": 3.6
+    }
+   ]
+  },
+  {
+   "hole": [
+    "MOUNTAIN",
+    8
+   ],
+   "clip": "0042",
+   "in": 1.5,
+   "out": 6.5,
+   "overlays": [
+    {
+     "type": "tag",
+     "text": "GOLDEN HOUR",
+     "sub": "太阳开始往下走了",
+     "at": 0.3,
+     "dur": 3.6
+    }
+   ]
+  },
+  {
+   "hole": [
+    "MOUNTAIN",
+    9
+   ],
+   "clip": "0048",
+   "in": 100.0,
+   "out": 121.0,
+   "overlays": [
+    {
+     "type": "sub",
+     "text": "（对话字幕，按 asr/<clip>.json 的时间填）",
+     "at": 14.5,
+     "dur": 2.0
+    }
+   ]
+  }
+ ]
+}

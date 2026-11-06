@@ -1,0 +1,7 @@
+ultralytics
+faster-whisper
+opencv-python
+numpy
+scipy
+Pillow
+librosa
